@@ -15,7 +15,7 @@
 <img
   src="https://github.com/Shaik-aarif/Shaik-aarif/blob/main/cat.gif"
   alt="coding"
-  width="250"
+  width="190"
   align="right"                                                  
 />
 - All of my projects are available at -
@@ -254,7 +254,7 @@ development** - <br /> - 📫 How to reach me **0222learning@gmail.com** - <br /
 
 <p>
   <img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=shaik-aarif&show_icons=true&locale=en&layout=compact"
     alt="shaik-aarif"
     width="40%"
@@ -263,16 +263,16 @@ development** - <br /> - 📫 How to reach me **0222learning@gmail.com** - <br /
 
 <p>
   &nbsp;<img
-    align="left"
+    align="center"
     src="https://github-readme-stats.vercel.app/api?username=shaik-aarif&show_icons=true&locale=en"
     alt="shaik-aarif"
-             width="40%"
+    width="40%"
   />
 </p>
 
 <p>
   &nbsp;<img
-    align="left"
+    align="center"
     src="https://github-readme-streak-stats.herokuapp.com/?user=shaik-aarif&"
     alt="shaik-aarif"
        width="40%"
