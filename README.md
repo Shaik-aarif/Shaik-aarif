@@ -12,11 +12,17 @@
 
 - 🌱 I’m currently learning **Java script ,node.js, React.js and mongoDb** -
 👨‍💻<br />
-All of my projects are available at
+<img
+  src="https://github.com/Shaik-aarif/Shaik-aarif/blob/main/cat.gif"
+  alt="coding"
+  width="250"
+  align="right"                                                  
+/>
+- All of my projects are available at -
 [https://shaik-aarif.github.io/Personal-website-udemy/](https://shaik-aarif.github.io/Personal-website-udemy/)<br />
 - 💬 Ask me about **competative coding , dsa , problem solving and web
-development** <br />- 📫 How to reach me **0222learning@gmail.com** - <br />⚡
-Fun fact **i love to play competative mobile games specially BGMI**
+development** - <br /> - 📫 How to reach me **0222learning@gmail.com** - <br />-⚡
+ Fun fact **i love to play competative mobile games specially BGMI** -
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaik-aarif" alt="shaik-aarif" /></a> </p> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -245,28 +251,31 @@ Fun fact **i love to play competative mobile games specially BGMI**
     />
   </a>
 </p>
-<br />
+
 <p>
   <img
     align="left"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=shaik-aarif&show_icons=true&locale=en&layout=compact"
     alt="shaik-aarif"
+    width="40%"
   />
 </p>
-<br />
+
 <p>
   &nbsp;<img
-    align="center"
+    align="left"
     src="https://github-readme-stats.vercel.app/api?username=shaik-aarif&show_icons=true&locale=en"
     alt="shaik-aarif"
+             width="40%"
   />
 </p>
-<br />
+
 <p>
-  <img
-    align="center"
+  &nbsp;<img
+    align="left"
     src="https://github-readme-streak-stats.herokuapp.com/?user=shaik-aarif&"
     alt="shaik-aarif"
+       width="40%"
   />
 </p>
 <img
