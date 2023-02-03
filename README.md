@@ -19,7 +19,7 @@
   align="right"                                                  
 />
 - All of my projects are available at -
-[https://shaik-aarif.github.io/Personal-website-udemy/](https://shaik-aarif.github.io/Personal-website-udemy/)<br />
+[https://shaik-aarif.github.io/Personal-website-udemy/](https://linktr.ee/Shaik_Arif)<br />
 - 💬 Ask me about **competative coding , dsa , problem solving and web
 development** - <br /> - 📫 How to reach me **0222learning@gmail.com** - <br />-⚡
  Fun fact **i love to play competative mobile games specially BGMI** -
@@ -135,7 +135,7 @@ development** - <br /> - 📫 How to reach me **0222learning@gmail.com** - <br /
     />
   </a>
  
-  <br>
+ 
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
@@ -196,7 +196,7 @@ development** - <br /> - 📫 How to reach me **0222learning@gmail.com** - <br /
       height="40"
     />
   </a>
-  <br>
+ 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -247,6 +247,7 @@ development** - <br /> - 📫 How to reach me **0222learning@gmail.com** - <br /
   </a>
 </p>
 
+<div align="center">
 <p>
   <img
     align="center"
@@ -273,9 +274,13 @@ development** - <br /> - 📫 How to reach me **0222learning@gmail.com** - <br /
        width="40%"
   />
 </p>
-<img
-  src="https://media.licdn.com/dms/image/C5112AQE8ThPkmol2Jg/article-cover_image-shrink_600_2000/0/1584093171155?e=2147483647&v=beta&t=kAVZ0l9rFDV5Kjg6u7ZRkh22MuY_fWeG4cPNBjAn5kE"
-  alt="coding"
-  width="250"
-  align="center"                                                  
-/>
+ 
+  </div>
+
+
+
+<div align="center">
+  
+![Metrics](https://metrics.lecoq.io/Shaik-aarif?template=classic&base.indepth=true&base.hireable=true&lines=1&people=1&achievements=1&leetcode=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=true&base.hireable=true&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&leetcode=false&leetcode.user=ArifShaik0222&leetcode.sections=solved&leetcode.limit.skills=10&leetcode.limit.recent=2&config.timezone=Asia%2FCalcutta)
+  
+</div>
