@@ -19,7 +19,7 @@
   align="right"                                                  
 />
 - All of my projects are available at -
-[https://shaik-aarif.github.io/Personal-website-udemy/](https://linktr.ee/Shaik_Arif)<br />
+[https://shaik-aarif.github.io/Personal-website-udemy/](https://shaik-aarif.github.io/My_Portfolio/)<br />
 - 💬 Ask me about **competative coding , dsa , problem solving and web
 development** - <br /> - 📫 How to reach me **0222learning@gmail.com** - <br />-⚡
  Fun fact **i love to play competative mobile games specially BGMI** -
